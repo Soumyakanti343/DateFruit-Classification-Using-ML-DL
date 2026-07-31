@@ -1,7 +1,7 @@
 #  Date Fruit Classification using Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="Images/architecture.png" width="850" alt="Project Architecture">
+  <img src="Images/Architecture.png" width="850" alt="Project Architecture">
 </p>
 
 ##  Overview
@@ -13,9 +13,9 @@ The dataset contains **34 numerical features** extracted from date fruit images,
 The models are evaluated using multiple performance metrics, including **Accuracy, Precision, Recall, F1-Score, ROC-AUC, Sensitivity, Specificity, Brier Score, and Expected Calibration Error (ECE)**, followed by a comprehensive leaderboard for performance comparison.
 
 <p align="center">
-
+  
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
-
+  
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch)
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn)
@@ -228,14 +228,14 @@ A comprehensive leaderboard is generated to compare all supervised models based 
 DateFruit-Classification-Using-ML-DL/
 │
 ├── Dataset/
-│   └── Date_Fruit_Datasets.csv
+│   └── DateFruit_Dataset.csv
 │
 │
 ├── Notebook/
 │   └── DateFruit_Classification_ML_DL.ipynb
 │
 ├── Images/
-│   ├── architecture.png
+│   ├── Architecture.png
 │   ├── confusion_matrix.png
 │   ├── roc_curve.png
 │   ├── train_test_loss.png
@@ -258,7 +258,7 @@ DateFruit-Classification-Using-ML-DL/
 Install all required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 Open the notebook in **Jupyter Notebook** or **JupyterLab** and execute the cells sequentially.
