@@ -236,12 +236,53 @@ DateFruit-Classification-Using-ML-DL/
 │
 ├── Images/
 │   ├── Architecture.png
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   ├── train_test_loss.png
-│   ├── train_test_accuracy.png
-│   ├── leaderboard.png
-│   └── clustering_leaderboard.png
+│   ├── Class Distribution.png
+|   ├── PCA Explained Varience.png
+│   ├── Classification Report-Logistic Regression.png
+│   ├── Confusion Matrix-Logistic Regression.png
+│   ├── ROC-AUC Curve-Logistic Regression.png
+│   ├── Classification Report-KNN.png
+|   ├── Confusion Matrix-KNN.png
+|   ├── ROC-AUC Curve.png
+|   ├── Classification Report-Naive Bayes.png
+|   ├── Confusion Matrix-Naive Bayes.png
+|   ├── ROC-AUC Curve-Naive Bayes.png
+|   ├── Classification Report-Support Vector Classifier.png
+|   ├── Confusion Matrix-Support Vector Classifier.png
+|   ├── ROC-AUC Curve-Support Vector Classifier.png
+|   ├── Classification Report-Random Forest Classifier.png
+|   ├── Confusion Matrix-Random Forest Classifier.png
+|   ├── ROC-AUC Curve-Random Forest Classifier.png
+|   ├── Classification Report-Bagging Classifier.png
+|   ├── Confusion Matrix-Bagging Classifier.png
+|   ├── ROC-AUC Curve-Bagging Classifier.png
+|   ├── Classification Report-AdaBoost Classifier.png
+|   ├── Confusion Matrix-AdaBoost Classifier.png
+|   ├── ROC-AUC Curve-AdaBoost Classifier.png
+|   ├── Classification Report-Gradient Boosting.png
+|   ├── Confusion Matrix-Gradient Boosting.png
+|   ├── ROC-AUC Curve-Gradient Boosting.png
+|   ├── Classification Report-Stacking Classifier.png
+|   ├── Confusion Matrix-Stacking Classifier.png
+|   ├── ROC-AUC Curve-Stacking Classifier.png
+|   ├── K-Means Clustering.png
+|   ├── MiniBatch K-Means Clustering.png
+|   ├── Agglomerative Clustering.png
+|   ├── Gaussian Mixture Model.png
+|   ├── DBSCAN Clustering.png
+|   ├── OPTICS Clustering.png
+|   ├── Birch Clustering.png
+|   ├── Mean Shift Clustering.png
+|   ├── Spectral Clustering.png
+|   ├── Affinity Propagation.png
+|   ├── Clustering Models Leaderboard.png
+|   ├── Train Test Loss Curve.png
+|   ├── Train Test Accuracy Curve.png
+|   ├── Classification Report-FNN.png
+|   ├── Confusion Matrix-FNN.png
+|   ├── ROC-AUC Curve-FNN.png
+|   ├── ML & DL Leaderboard.png
+│   └── Accuracy Comparison
 │
 ├── Results/
 │   ├── Final_Model_Leaderboard.csv
